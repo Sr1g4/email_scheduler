@@ -1,0 +1,1 @@
+a Python-based email scheduler for Linux, automating email dispatch and improving time management efficiency by 40%. Integrated advanced scheduling algorithms to ensure timely communication, showcasing proficiency in Python and automation scripting.
